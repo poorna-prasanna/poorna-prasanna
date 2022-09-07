@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poorna-prasanna
 - 👀 I’m interested in web development
 - 🌱 I’m currently persuvating in Bachler's of computer science 
-- i love learnig new course specially i love html ans css
+- i love learnig new things
 
 
 <!---
